@@ -11,7 +11,7 @@ posts = [
     {
         'author': 'Denius',
         'title': ' Response to - Who is the best QB in the NFL right now?',
-        'content': 'If i were you i would take Kyler Murray he is a dual threat and front runner or MVP and a great pickup.',
+        'content': 'If i were you i would take Kyler Murray he is a dual threat and front runner for MVP and a great pickup.',
         'date_posted': 'october 7th, 2021'
     }
 ]
