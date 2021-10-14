@@ -5,7 +5,7 @@ posts = [
     {
         'author': 'Kabibi',
         'title': 'Who is the best QB in the NFL right now?',
-        'content': 'Ive been wondering who the best Qb is for a whole becasue i want to know who to get in fantasy football but i just cant figure it out.',
+        'content': 'Ive been wondering who the best Qb is for a while becasue i want to know who to get in fantasy football but i just cant figure it out.',
         'date_posted': 'october 6th, 2021'
     },
     {
